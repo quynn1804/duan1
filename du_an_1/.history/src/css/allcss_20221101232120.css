@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header-navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_logo{
+
+}
+.header_logo-img{
+    width: 100px;
+    height: 100px;
+}
+.header_search{
+
+}
+.header_search-text{
+    border-color: red;
+}
+.header_search-submit{
+    background: blue;
+}
+.header_hotline{
+
+}
+.header_hotline-text{
+
+}
